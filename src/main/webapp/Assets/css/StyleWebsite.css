@@ -1,0 +1,141 @@
+@charset "UTF-8";
+
+body {
+	background-color: rgb(175, 153, 255);
+}
+
+.subtitle, .mainTitle {
+	padding-left: 40%;
+}
+
+.blocCenterLoginRegister {
+	margin-left: 30%;
+	border-radius: 30px;
+	width: 40%;
+	text-align: center;
+}
+
+.registerLoginBloc {
+	border-radius: 30px;
+	background-color: rgba(255, 255, 255, .4);
+	width: 40%;
+	margin-top: 10px;
+	margin-left: 30%;
+	text-align: center;
+	padding: 2em;
+}
+
+.footerStyle, .menu {
+	margin: 5px;
+	margin-top: 1em;
+	padding-top: 1em;
+}
+
+.footerStyle {
+	margin-left: 30%;
+	text-align: center;
+	width: 40%;
+	height: 3em;
+}
+
+.menu {
+	background-color: rgba(255, 255, 255, 0.6);
+	border-radius: 30px;
+	width: auto;
+	margin-left: 10%;
+	margin-right: 10%;
+	padding-left: 1em;
+	height: 5em;
+}
+
+.spacing {
+	margin-left: 15%;
+}
+
+.main {
+	background-color: rgba(255, 255, 255, 0.6);
+	width: 60%;
+	margin-left: 20%;
+	margin-top: 3em;
+	border-radius: 30px;
+	padding: 1em;
+}
+
+.center {
+	text-align: center;
+}
+
+.form_subtitle {
+	color: rgb(94, 94, 94);
+	font-size: 10px;
+}
+
+.listProjects {
+	padding: 1em;
+}
+
+.follow {
+	border: solid rgba(0, 0, 0, .2);
+	border-radius: 30px;
+	padding: 1em;
+	margin: 1em;
+}
+
+.notif0, .notif1 {
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+}
+
+.notif0 {
+	background-color: rgba(237, 211, 12, .2);
+}
+
+.form-control {
+	border-radius: 30px;
+}
+
+.nameChat {
+	color: rgb(255, 0, 0);
+	font-weight: bold;
+}
+
+.chatDate {
+	color: rgb(110, 110, 110);
+}
+
+.recentsMessages {
+	background-color: rgba(255, 255, 255, .6);
+	padding: 1em;
+	margin: 5px;
+}
+
+.dashboardcard {
+	border: solid rgb(0, 0, 0);
+	border-radius: 30px;
+	padding: 1em;
+	margin: 1em;
+	height: auto;
+}
+
+.mainLarge {
+	background-color: rgba(255, 255, 255, 0.6);
+	width: 90%;
+	margin-left: 5%;
+	margin-top: 3em;
+	border-radius: 30px;
+	padding: 1em;
+}
+
+.scroll {
+	height: 250px;
+	overflow-y: scroll;
+}
+
+.taskList {
+	border: solid rgba(0, 0, 0,.3);
+	padding:1em;
+}
+
+.card-body {
+	height: 250px;
+}
